@@ -9,4 +9,4 @@ add_executable(ex2
         demo_itimer.c
         demo_jmp.c
         demo_singInt_handler.c
-        uthreads.h)
+        uthreads.h uthreads.cpp)
